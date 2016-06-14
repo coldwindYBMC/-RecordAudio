@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, EX07_11</string>
+    <string-array name="recordtime_list">
+        <item>关闭自动录音</item>
+    <item>每隔10秒钟自动录音</item>
+    <item>每隔5分钟自动录音</item>
+    <item>每隔10分钟自动录音</item>
+    <item>每隔30自动录音</item>
+</string-array>
+</resources>
